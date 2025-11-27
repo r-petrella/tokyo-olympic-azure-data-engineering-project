@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-data-factory117",
+	"location": "italynorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "676c062b-1375-4970-8503-1b59ad6abcc1",
+		"tenantId": "be50fa3b-c833-4bb4-b7ee-9a5b37bcfc2b"
+	}
+}
