@@ -19,6 +19,12 @@
 		},
 		"EntriesGenderHTTP_properties_typeProperties_url": {
 			"value": "https://github.com/r-petrella/tokyo-olympic-azure-data-engineering-project/raw/main/data/EntriesGender.csv"
+		},
+		"MedalsHTTP_properties_typeProperties_url": {
+			"value": "https://github.com/r-petrella/tokyo-olympic-azure-data-engineering-project/raw/main/data/Medals.csv"
+		},
+		"TeamsHTTP_properties_typeProperties_url": {
+			"value": "https://github.com/r-petrella/tokyo-olympic-azure-data-engineering-project/raw/main/data/Teams.csv"
 		}
 	}
 }
